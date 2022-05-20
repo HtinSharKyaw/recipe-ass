@@ -7,6 +7,9 @@ img {
   width: 400px;
   height: 250px;
 }
+h1 {
+  text-align: center;
+  color: #a4a400;
 
 h2,
 h5 {
